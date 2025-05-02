@@ -211,9 +211,9 @@ MonoBehaviour:
   uiBounds:
     serializedVersion: 2
     x: 498
-    y: -491
+    y: -490
     width: 656
-    height: 1868
+    height: 1894
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1804,7 +1804,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.058
+      m_SerializableObject: 0.198
     m_Space: -1
   m_Property:
     name: roughness
